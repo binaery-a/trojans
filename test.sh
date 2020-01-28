@@ -1,7 +1,7 @@
 #! /bin/bash
 
 func(){
-echo "Binaery"
+echo "Binaery update"
 }
 
 func
